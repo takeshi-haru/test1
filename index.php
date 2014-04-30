@@ -1,3 +1,3 @@
 <?php
-  echo "Almond, Anata wa Hansamu desu";
+  echo "Dominic, Anata wa Hansamu desu";
 ?>
